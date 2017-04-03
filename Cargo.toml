@@ -1,0 +1,4 @@
+[package]
+name = "bf_aot"
+version = "0.0.1"
+authors = [ "Martin Regner Larsen <martin@pnml.dk>" ]
